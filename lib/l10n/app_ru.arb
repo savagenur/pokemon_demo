@@ -1,0 +1,18 @@
+{
+  "language": "Русский",
+  "pokemons": "Покемоны",
+  "name": "Имя",
+  "baseExp": "Базовый опыт",
+  "height": "Рост",
+  "order": "Позиция",
+  "weight": "Вес",
+  "abilities": "Способности",
+  "forms": "Формы",
+  "stats": "Статистика",
+  "types": "Типы",
+  "heldItems": "Предметы",
+  "settings": "Настройки",
+  "lightTheme": "Светлая тема",
+  "darkTheme": "Темная тема",
+  "moves": "Приемы"
+}
