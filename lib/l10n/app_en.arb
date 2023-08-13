@@ -1,0 +1,73 @@
+{
+  "language": "English",
+  "@language": {
+    "description": "The current language"
+  },
+  "pokemons": "Pokemons",
+  "@pokemons": {
+    "description": "The current pokemons"
+  },
+  "baseExp": "Base Experience",
+  "@baseExp": {
+    "description": "The current pokemons"
+  },
+  "height": "Height",
+  "@height": {
+    "description": "The current pokemons"
+  },
+
+
+
+
+  "settings": "Settings",
+  "@settings": {
+    "description": "The current pokemons"
+  },
+  "lightTheme": "Light theme",
+  "@lightTheme": {
+    "description": "The current pokemons"
+  },
+  "darkTheme": "Dark theme",
+  "@darkTheme": {
+    "description": "The current pokemons"
+  },
+
+
+
+  "order": "Order",
+  "@order": {
+    "description": "The current pokemons"
+  },
+  "weight": "Weight",
+  "@weight": {
+    "description": "The current pokemons"
+  },
+  "abilities": "Abilities",
+  "@abilities": {
+    "description": "The current pokemons"
+  },
+  "forms": "Forms",
+  "@forms": {
+    "description": "The current pokemons"
+  },
+  "stats": "Stats",
+  "@stats": {
+    "description": "The current pokemons"
+  },
+  "types": "Types",
+  "@types": {
+    "description": "The current pokemons"
+  },
+  "heldItems": "Held items",
+  "@heldItems": {
+    "description": "The current pokemons"
+  },
+  "moves": "Moves",
+  "@moves": {
+    "description": "The current pokemons"
+  },
+  "name": "Name",
+  "@name": {
+    "description": "The current name"
+  }
+}
